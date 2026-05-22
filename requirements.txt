@@ -3,3 +3,4 @@ numpy
 Pillow
 ultralytics
 supervision
+opencv-python-headless
