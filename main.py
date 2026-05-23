@@ -21,7 +21,7 @@ st.divider()
 # ── Model Loading (cached — only loads once per session) ──────────────────────
 @st.cache_resource
 def get_model():
-    return load_model("best_vehicle2.pt")
+    return load_model("best_vehicle3.pt")
 
 model = get_model()
 
